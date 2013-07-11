@@ -2,5 +2,6 @@
 
 phpinfo();
 
+ini ada perubahan
 
 ?>
